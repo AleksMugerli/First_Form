@@ -1,4 +1,4 @@
-# What I Learned from Developing the "FirstForm" App
+# FirstForm App
 
 Through the development of this mobile application, I have gained hands-on experience and consolidated my knowledge in the following areas of Android app development using Java:
 
