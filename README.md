@@ -18,3 +18,5 @@ Through the development of this mobile application, I have gained hands-on exper
 
 ## 4. Temporary Data Visualization & Communication
 * **Constructing Dialog Windows (`AlertDialog.Builder`):** I learned how to instantiate and customize modal dialog boxes to present summarized multi-line information (`StringBuilder`) neatly to the user without redirecting them to a completely new screen or activity.
+<img width="1080" height="2316" alt="Screenshot_20261012_092643_First_Form" src="https://github.com/user-attachments/assets/af2eb01a-9d7d-49ef-ba40-30ef78d4d131" />
+<img width="1080" height="2316" alt="Screenshot_20261012_092600_First_Form" src="https://github.com/user-attachments/assets/f3532a1d-bdc3-4069-a986-898125e824b0" />
