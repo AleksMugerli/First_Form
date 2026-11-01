@@ -1,6 +1,3 @@
-<img width="1080" height="2316" alt="Screenshot_20261012_092600_First_Form" src="https://github.com/user-attachments/assets/5021cc8b-09be-4109-a632-494e4cfd8cc3" />
-<img width="1080" height="2316" alt="Screenshot_20261012_092643_First_Form" src="https://github.com/user-attachments/assets/b0ba74f8-5ab9-407e-8fc3-a65b57848ce6" />
-<img width="1080" height="2316" alt="Screenshot_20261012_092600_First_Form" src="https://github.com/user-attachments/assets/a9359edb-132a-4742-9d82-115bb2d7f864" />
 # FirstForm App
 
 Through the development of this mobile application, I have gained hands-on experience and consolidated my knowledge in the following areas of Android app development using Java:
