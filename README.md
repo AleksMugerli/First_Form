@@ -21,6 +21,6 @@ Through the development of this mobile application, I have gained hands-on exper
 
 ## 5. ScreenShot of App
 <img width="200" height="400" alt="Screenshot_20261102_000638_Hello_constraint" src="https://github.com/user-attachments/assets/4bfbe88e-326c-4420-a9ba-554eaeb3ab75" />
-<img width="200" height="400" alt="Screenshot_20261102_000646_Hello_constraint" src="https://github.com/user-attachments/assets/3e8f31fd-bdad-4e86-a02f-dc6e3d1d83b5" />
+<img width="400" height="200" alt="Screenshot_20261102_000646_Hello_constraint" src="https://github.com/user-attachments/assets/3e8f31fd-bdad-4e86-a02f-dc6e3d1d83b5" />
 <img width="200" height="400" alt="Screenshot_20261102_000655_Hello_constraint" src="https://github.com/user-attachments/assets/71cfe27b-fc15-4293-9737-2e3c6303c74d" />
 
