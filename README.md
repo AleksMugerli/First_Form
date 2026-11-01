@@ -1,3 +1,6 @@
+<img width="1080" height="2316" alt="Screenshot_20261012_092600_First_Form" src="https://github.com/user-attachments/assets/5021cc8b-09be-4109-a632-494e4cfd8cc3" />
+<img width="1080" height="2316" alt="Screenshot_20261012_092643_First_Form" src="https://github.com/user-attachments/assets/b0ba74f8-5ab9-407e-8fc3-a65b57848ce6" />
+<img width="1080" height="2316" alt="Screenshot_20261012_092600_First_Form" src="https://github.com/user-attachments/assets/a9359edb-132a-4742-9d82-115bb2d7f864" />
 # FirstForm App
 
 Through the development of this mobile application, I have gained hands-on experience and consolidated my knowledge in the following areas of Android app development using Java:
@@ -20,7 +23,7 @@ Through the development of this mobile application, I have gained hands-on exper
 * **Constructing Dialog Windows (`AlertDialog.Builder`):** I learned how to instantiate and customize modal dialog boxes to present summarized multi-line information (`StringBuilder`) neatly to the user without redirecting them to a completely new screen or activity.
 
 ## 5. ScreenShot of App
-<img width="200" height="400" alt="Screenshot_20261102_000638_Hello_constraint" src="https://github.com/user-attachments/assets/4bfbe88e-326c-4420-a9ba-554eaeb3ab75" />
-<img width="400" height="200" alt="Screenshot_20261102_000646_Hello_constraint" src="https://github.com/user-attachments/assets/3e8f31fd-bdad-4e86-a02f-dc6e3d1d83b5" />
-<img width="200" height="400" alt="Screenshot_20261102_000655_Hello_constraint" src="https://github.com/user-attachments/assets/71cfe27b-fc15-4293-9737-2e3c6303c74d" />
+<img width="200" height="400" alt="Screenshot_20261012_092643_First_Form" src="https://github.com/user-attachments/assets/fc2fd4a1-7fbf-4596-bbcf-4a1cfb478337" />
+<img width="200" height="400" alt="Screenshot_20261012_092600_First_Form" src="https://github.com/user-attachments/assets/164fff03-0877-45c8-9b4a-973ccdb9936d" />
+
 
